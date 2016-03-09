@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo1"
+Attribute VB_Name = "MÃ³dulo1"
 Sub all()
 Application.ScreenUpdating = False
 
@@ -77,8 +77,10 @@ Sheets("CTASAS (2)").Visible = False
 MsgBox "Se ha generado el mapa"
 Application.ScreenUpdating = True
 
-
 End Sub
+
+'------------------------------------------------------------------------------------------
+
 Sub PDF()
 Application.ScreenUpdating = False
 Sheets("DATOS").Visible = True
@@ -100,6 +102,9 @@ Sheets("CTASAS (2)").Visible = False
 Sheets("CTASAS").Select
 Application.ScreenUpdating = False
 End Sub
+
+'------------------------------------------------------------------------------------------
+
 Sub Reiniciar()
 Application.ScreenUpdating = False
 Sheets("DATOS").Visible = True
