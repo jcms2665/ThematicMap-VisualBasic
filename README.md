@@ -1,22 +1,12 @@
 # ThematicMap-VisualBasic
+- - - -
+
+## Español
+
+El objetivo de este proyecto es generar *mapas temáticos* usado codigo de **Visual Basic (VB)**. Para lograrlo, solo hay que descargar el archivo *ThematicMap-VBA.xlsm* el cual se encuentra en la carpeta [Macro](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Macro). El código que usa la macro se encuentra en la carpeta [Code](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Code). Además, en la carpeta [Tutorial](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Tutorial) se tiene un breve tutorial (en PDF) sobre el uso de Visual Basic (VB)
 
 
-### Español
 
-Mapa temático usando código de Visual Basic
+## English
 
-
-### English
-
-Thematic map using Visual Basic code
-
-
-### Ejemplo / Example
-
-![alt tag](https://cloud.githubusercontent.com/assets/13545121/13652073/d9acbdac-e60f-11e5-98ab-3ff253d1cb21.JPG)
-
-## Código / Code
-
-![alt tag](https://cloud.githubusercontent.com/assets/13545121/13652652/03c0c91e-e613-11e5-8f81-4db2bdaed512.jpg)
-
-
+The aim of this project is to generate *thematic maps* using **Visual Basic (VB) code**. In order to do so, one needs to download the file called *ThematicMap-VBA.xlsm* within [Macro](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Macro) folder. The code used by the program is inside [Code](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Code) folder. Furthermore, inside [Tutorial](https://github.com/jcms2665/ThematicMap-VisualBasic/tree/master/Tutorial), there is a short tutorial  (for the moment, only in Spanish) about  Visual Basic (VB)
